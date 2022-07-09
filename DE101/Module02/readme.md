@@ -19,19 +19,19 @@
 
 Скрипт на выполнение запросов из Модуля 01 лежит [здесь](https://github.com/VitMesh/DE_learn/blob/main/DE101/Module02/Scripts_01.sql)
 
->Результаты работы скрипта выглядит примерно так:
->
->* Profit per Order
->
->![](01_01.PNG)
->
->* Monthly Sales by Segment
->
->![](01_02.PNG)
->
->* Monthly Sales by Product Category
->
->![](01_03.PNG)
+Результаты работы скрипта выглядит примерно так:
+
+* Profit per Order
+
+![](01_01.PNG)
+
+* Monthly Sales by Segment
+
+![](01_02.PNG)
+
+* Monthly Sales by Product Category
+
+![](01_03.PNG)
 
 ---
 ##  2.4: Модели Данных
